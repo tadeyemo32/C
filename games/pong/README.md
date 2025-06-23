@@ -1,11 +1,23 @@
-# Pong Game in C
+# My Raylib Game
 
-A simple Pong game written in C using Raylib.
+A simple game built using [Raylib](https://www.raylib.com/) and C.
 
-## How to Build
+##  Build Instructions (macOS/Linux)
 
-Make sure you have [raylib](https://www.raylib.com/) installed, then:
+Make sure you have Raylib installed.
+
+### macOS
+Install Raylib via Homebrew:
 
 ```bash
-make
-./game
+brew install raylib
+
+
+
+
+
+
+
+
+
+
